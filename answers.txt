@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a useful tool when collaborating with others on projects.
+Using Git can allow multiple people to make progress on a project at the same time. Particularly there is a group project in this class that will require collaboration between multiple people. Using Git will enable each member to make progress simultaneously and thus be more efficient.
