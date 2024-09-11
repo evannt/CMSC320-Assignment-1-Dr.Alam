@@ -6,3 +6,7 @@ Using Git can allow multiple people to make progress on a project at the same ti
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be used in the medical field. For example, patient's medical records could be analyzed and used to predict disease outbreaks.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between merging and rebasing is that merging is a safe option that preserves the history of your repository where rebasing creates a linear history by moving your feature branch onto the tip of main.
