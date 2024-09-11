@@ -2,3 +2,7 @@ Q1: Why might be consider using git?
 
 Answer: Git is a useful tool when collaborating with others on projects.
 Using Git can allow multiple people to make progress on a project at the same time. Particularly there is a group project in this class that will require collaboration between multiple people. Using Git will enable each member to make progress simultaneously and thus be more efficient.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be used in the medical field. For example, patient's medical records could be analyzed and used to predict disease outbreaks.
